@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Tip Calculator/task/build/
+/Tip Calculator/task/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
